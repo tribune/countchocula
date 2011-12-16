@@ -17,7 +17,7 @@
 //         `\\_//`
 //
 // Meet Count Chocula. He's an infuse plugin who provides a dynamically
-// updated character count for text fields throughout P2P. He runs on
+// updated character count for text fields. He runs on
 // text fields/textareas with a certain data-role.
 // 
 // To summon the Count:
