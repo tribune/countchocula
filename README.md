@@ -15,11 +15,15 @@
            `\\_//`
 
 Meet Count Chocula. He's an infuse plugin who provides a dynamically
-updated character count for text fields throughout P2P. He runs on
+updated character count for text fields. He runs on
 text fields/textareas with a certain data-role.
 
+## Usage
+
 To summon the Count:
+
 Add the following data-roles to your fields.
+
     <div class="field" data-role="countchocula">
       <label for="blah" data-role="countchocula_display">Blah</label>
       <input type="text" name="blah" data-role="countchocula_count" />
