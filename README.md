@@ -12,7 +12,7 @@
      `\   \       /   /`
        `\  '-...-'  /`
          `\  / \  /`
-           `\\_//`
+     jgs   `\\_//`
 
 Meet Count Chocula. He's an infuse plugin who provides a dynamically
 updated character count for text fields. He runs on
